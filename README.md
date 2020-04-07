@@ -1,6 +1,6 @@
-# KNN-Implementacao
+# KNN-Implementação
 
-Implementação do algoritmo K-Means em Python
+Implementação do algoritmo KNN em Python
 
 ### Parâmetros
 dados: DataSet em formato list <br>
